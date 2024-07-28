@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>, I'm Zaher Abd Ulmoula </b></h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zaher88abd.visitor-badge&left_color=green&right_color=red)
+![](https://komarev.com/ghpvc/?username=zaher88abd&color=green)
 
 ## About Me
 
@@ -18,17 +18,55 @@
 - :trophy: Awarded the Rising Star Award for my contributions to the Halifax Community.
 - :mailbox: Feel free to reach out to me at [zaher88abd@gmail.com](mailto:zaher88abd@gmail.com).
 <br>
+
+
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mzaherabdulmoula">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+			<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/zaher88abd">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/3241790/zaher88abd">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+				<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/zaher88abd">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+			<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="emailto:zaher88abd@gmail.com">
-					<img alt="svgImg" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iNTAiIGhlaWdodD0iNTAiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHBvbHlnb24gZmlsbD0iI2YxNmU3YyIgcG9pbnRzPSIyOS40MzQsMjUuMjkzIDUwLDQwLjY1NyA3MC41NjYsMjUuMjkzIDcwLjU2Niw0OCA1MCw2MyAyOS40MzQsNDgiPjwvcG9seWdvbj48cGF0aCBmaWxsPSIjZWFkMDMyIiBkPSJNNzAuNTY2LDQ3LjU1NEw4Ny45MSwzNC44NDl2LTQuODA4YzAtNS4wMDItNC4wNTUtOS4wNTYtOS4wNTYtOS4wNTZoLTIuMDQ2bC02LjI0Miw0LjMwOAlDNzAuNTY2LDI1LjI5Myw3MC41NjYsNDcuNTU0LDcwLjU2Niw0Ny41NTR6Ij48L3BhdGg+PHBhdGggZmlsbD0iI2U4NTY1NCIgZD0iTTI5LjQzNCw0Ny41NTRMMTIuMDg5LDM0Ljg0OXYtNC44MDhjMC01LjAwMiw0LjA1NS05LjA1Niw5LjA1Ni05LjA1NmgyLjA0Nmw2LjI0Miw0LjMwOAlMMjkuNDM0LDQ3LjU1NEwyOS40MzQsNDcuNTU0eiI+PC9wYXRoPjxwYXRoIGZpbGw9IiM4Y2M3OGMiIGQ9Ik03MCw0OGwxOC4zNjItMTMuNjM4djM4LjkyNmMwLDMuMTU1LTIuNTU3LDUuNzEyLTUuNzEyLDUuNzEySDcwVjQ4eiI+PC9wYXRoPjxwYXRoIGZpbGw9IiM0MGE2ZGQiIGQ9Ik0zMCw0OEwxMS42MzgsMzQuMzYydjM4LjkyNmMwLDMuMTU1LDIuNTU3LDUuNzEyLDUuNzEyLDUuNzEySDMwVjQ4eiI+PC9wYXRoPjxwYXRoIGZpbGw9IiMxZjIxMmIiIGQ9Ik03OC45OSwyMGMtMi4xODYsMC00LjI2NSwwLjY5NS02LjAxMiwyLjAxMUw1MCwzOS4zMjhMMjcuMDIxLDIyLjAxMUMyNS4yNzQsMjAuNjk1LDIzLjE5NSwyMCwyMSwyMAljLTUuNTE0LDAtMTAsNC40ODYtMTAsMTB2NDRjMCwzLjMwOSwyLjY5MSw2LDYsNmgxM2MwLjU1MywwLDEtMC40NDcsMS0xVjUwLjA5Mkw0OS40LDYzLjhjMC4xOCwwLjEzLDAuMzksMC4yLDAuNiwwLjIJczAuNDEtMC4wNiwwLjU5LTAuMTlMNjksNTAuNTE0Vjc5YzAsMC41NTMsMC40NDcsMSwxLDFoMTNjMy4zMDksMCw2LTIuNjkxLDYtNlYzMEM4OSwyNC40ODYsODQuNTE0LDIwLDc4Ljk5LDIweiBNNzQuMTgyLDIzLjYwOAlDNzUuNTc5LDIyLjU1Nyw3Ny4yNDIsMjIsNzksMjJjNC40MTEsMCw4LDMuNTg5LDgsOHY0Ljc5OUw3MSw0Ni43MjRWNDYuNlYyNi4wMDZMNzQuMTgyLDIzLjYwOHogTTIxLjAxLDIyCWMxLjc0OCwwLDMuNDExLDAuNTU3LDQuODA5LDEuNjA4TDI5LDI2LjAwNlY0Ni42djAuMTI0TDEzLDM0Ljc5OVYzMEMxMywyNS41ODksMTYuNTg5LDIyLDIxLjAxLDIyeiBNMjksNzhIMTdjLTIuMjA2LDAtNC0xLjc5NC00LTQJVjM2LjA0N2wxNiwxMS45MjR2MC44MjNWNDlWNzh6IE01MC4wMSw2MS43NkwzMCw0Ny4zMjJWMjYuNzZsMTkuMzk4LDE0LjYxOWMwLjAxNywwLjAxMywwLjAzNywwLjAxNSwwLjA1NCwwLjAyNgljMC4wNTksMC4wMzksMC4xMjIsMC4wNjQsMC4xODcsMC4wODljMC4wNTcsMC4wMjIsMC4xMTEsMC4wNDcsMC4xNywwLjA1OWMwLjA2NiwwLjAxMywwLjEzLDAuMDExLDAuMTk3LDAuMDEJYzAuMDYxLDAsMC4xMiwwLjAwMiwwLjE4LTAuMDA5YzAuMDYyLTAuMDEyLDAuMTItMC4wMzgsMC4xOC0wLjA2MmMwLjA2My0wLjAyNSwwLjEyNC0wLjA0OSwwLjE4MS0wLjA4NwljMC4wMTctMC4wMTEsMC4wMzctMC4wMTMsMC4wNTQtMC4wMjZMNzAsMjYuNzZ2MjAuNTYyTDUwLjAxLDYxLjc2eiBNODMsNzhINzFWNDkuMDd2LTAuMTc0VjQ4LjV2LTAuNTI4bDE2LTExLjkyNFY3NAlDODcsNzYuMjA2LDg1LjIwNiw3OCw4Myw3OHoiPjwvcGF0aD48cGF0aCBmaWxsPSIjMWYyMTJiIiBkPSJNMTYuNSw2MWMwLjI3NiwwLDAuNS0wLjIyNCwwLjUtMC41di0yYzAtMC4yNzYtMC4yMjQtMC41LTAuNS0wLjVTMTYsNTguMjI0LDE2LDU4LjV2MglDMTYsNjAuNzc2LDE2LjIyNCw2MSwxNi41LDYxeiI+PC9wYXRoPjxwYXRoIGZpbGw9IiMxZjIxMmIiIGQ9Ik0xNi41LDUyYzAuMjc2LDAsMC41LTAuMjI0LDAuNS0wLjV2LTdjMC0wLjI3Ni0wLjIyNC0wLjUtMC41LTAuNVMxNiw0NC4yMjQsMTYsNDQuNXY3CUMxNiw1MS43NzYsMTYuMjI0LDUyLDE2LjUsNTJ6Ij48L3BhdGg+PHBhdGggZmlsbD0iIzFmMjEyYiIgZD0iTTI0LjUsNzRoLTdjLTAuMjc1LDAtMC41LTAuMjI1LTAuNS0wLjV2LTEwYzAtMC4yNzYtMC4yMjQtMC41LTAuNS0wLjVTMTYsNjMuMjI0LDE2LDYzLjV2MTAJYzAsMC44MjcsMC42NzMsMS41LDEuNSwxLjVoN2MwLjI3NiwwLDAuNS0wLjIyNCwwLjUtMC41UzI0Ljc3Niw3NCwyNC41LDc0eiI+PC9wYXRoPjxwYXRoIGZpbGw9IiMxZjIxMmIiIGQ9Ik00Mi44MDEsNDAuMTZjLTAuMjItMC4xNjQtMC41MzItMC4xMjMtMC43LDAuMDk5Yy0wLjE2NiwwLjIyMS0wLjEyMiwwLjUzNCwwLjA5OSwwLjdsMi4wNDcsMS41NDIJYzAuMDksMC4wNjcsMC4xOTUsMC4xMDEsMC4zMDEsMC4xMDFjMC4xNTEsMCwwLjMwMS0wLjA2OCwwLjM5OS0wLjE5OWMwLjE2Ni0wLjIyMSwwLjEyMi0wLjUzNC0wLjA5OS0wLjdMNDIuODAxLDQwLjE2eiI+PC9wYXRoPjxwYXRoIGZpbGw9IiMxZjIxMmIiIGQ9Ik00Ni40NDQsNDIuOTA1Yy0wLjIxOS0wLjE2NC0wLjUzMy0wLjEyMy0wLjcsMC4wOTljLTAuMTY2LDAuMjIxLTAuMTIyLDAuNTM0LDAuMDk5LDAuN2wyLjkxNCwyLjE5NQlDNDguODQ3LDQ1Ljk2Nyw0OC45NTIsNDYsNDkuMDU4LDQ2YzAuMTUxLDAsMC4zMDEtMC4wNjgsMC4zOTktMC4xOTljMC4xNjYtMC4yMjEsMC4xMjItMC41MzQtMC4wOTktMC43TDQ2LjQ0NCw0Mi45MDV6Ij48L3BhdGg+PHBhdGggZmlsbD0iIzFmMjEyYiIgZD0iTTU1LjMwNiw0MS41ODdsLTMuMzM3LDIuNTE0Yy0wLjIyMSwwLjE2Ni0wLjI2NSwwLjQ3OS0wLjA5OSwwLjdDNTEuOTY5LDQ0LjkzMiw1Mi4xMTgsNDUsNTIuMjcsNDUJYzAuMTA1LDAsMC4yMTEtMC4wMzMsMC4zMDEtMC4xMDFsMy4zMzctMi41MTRjMC4yMjEtMC4xNjYsMC4yNjUtMC40NzksMC4wOTktMC43QzU1LjgzOSw0MS40NjQsNTUuNTI0LDQxLjQyMyw1NS4zMDYsNDEuNTg3eiI+PC9wYXRoPjxwYXRoIGZpbGw9IiMxZjIxMmIiIGQ9Ik01OC42ODIsMzkuMDQ0bC0xLjc3OCwxLjMzOWMtMC4yMjEsMC4xNjYtMC4yNjUsMC40NzktMC4wOTksMC43CWMwLjA5OSwwLjEzMSwwLjI0OCwwLjE5OSwwLjM5OSwwLjE5OWMwLjEwNSwwLDAuMjExLTAuMDMzLDAuMzAxLTAuMTAxbDEuNzc4LTEuMzM5YzAuMjIxLTAuMTY2LDAuMjY1LTAuNDc5LDAuMDk5LTAuNwlDNTkuMjE1LDM4LjkyLDU4LjksMzguODgsNTguNjgyLDM5LjA0NHoiPjwvcGF0aD48cGF0aCBmaWxsPSIjMWYyMTJiIiBkPSJNNjYuODk5LDMzLjQ3OWMtMC4xNjctMC4yMjItMC40ODEtMC4yNjMtMC43LTAuMDk5bC01LjkxOSw0LjQ2Yy0wLjIyMSwwLjE2Ni0wLjI2NSwwLjQ3OS0wLjA5OSwwLjcJYzAuMDk5LDAuMTMxLDAuMjQ4LDAuMTk5LDAuMzk5LDAuMTk5YzAuMTA1LDAsMC4yMTEtMC4wMzMsMC4zMDEtMC4xMDFsNS45MTktNC40NTlDNjcuMDIxLDM0LjAxNCw2Ny4wNjUsMzMuNyw2Ni44OTksMzMuNDc5eiI+PC9wYXRoPjxwYXRoIGZpbGw9IiMxZjIxMmIiIGQ9Ik0xNi41LDU2YzAuMjc2LDAsMC41LTAuMjI0LDAuNS0wLjV2LTFjMC0wLjI3Ni0wLjIyNC0wLjUtMC41LTAuNVMxNiw1NC4yMjQsMTYsNTQuNXYxCUMxNiw1NS43NzYsMTYuMjI0LDU2LDE2LjUsNTZ6Ij48L3BhdGg+Cjwvc3ZnPg=="/></a>
-      </div>
-![Visitor Count](https : //profile-counter.glitch.me/zaher88abd/count.svg)
+					<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+                    
+</div>
 
+<br>
+
+<p align="center"><img 
+    src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/3241790"
+    alt="zaher88abd" 
+    bg_color=#808080/></p>
+
+<p align="center"><img 
+    src="https://github-readme-stats.vercel.app/api?username=zaher88abd&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"
+    alt="zaher88abd" 
+    bg_color=#808080/></p>
+
+<p align="center"><img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=zaher88abd&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="zaher88abd" 
+    bg_color=#808080/></p>
+
+<br>
+
+## Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+
+## Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+## Database
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+## Services
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+## Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+ ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
