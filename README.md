@@ -29,7 +29,7 @@
 				<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/zaher88abd">
 			<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="emailto:zaher88abd@gmail.com">
+		<a style="margin-left: 5px;" target="_blank" href="mailto:zaher88abd@gmail.com">
 					<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
                     
 </div>
