@@ -16,7 +16,7 @@
 - :books: I’m always `learning new technologies` and improving my skills.
 - :speech_balloon: I’m fluent in `Arabic` and `English`, with basic proficiency in `Turkish`.
 - :trophy: Awarded the Rising Star Award for my contributions to the Halifax Community.
-- :mailbox: Feel free to reach out to me at [zaher88abd@gmail.com](mailto:zaher88abd@gmail.com).
+- :mailbox: Feel free to reach out to me at 
 <br>
 
 
