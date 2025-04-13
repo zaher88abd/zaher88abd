@@ -7,7 +7,7 @@
 
 <br><br>
 
-- :man_technologist: I am a `Software Engineer` based in Oshawa, Ontario, Canada.
+- :man_technologist: I am a `Software Engineer`.
 - :briefcase: Currently working at [`Korechi Innovations Inc.`](https://korechi.com/) on projects like "Pik’r Connect", "Pik’r Studio", and lead the software team.
 - :iphone: I specialize in `Mobile Development` (Flutter, Android, iOS).
 - :robot: I have a strong interest in `Machine Learning` and have experience with TensorFlow.
